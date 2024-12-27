@@ -17,7 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvi1212agarwal&" alt="" /></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvi1212Agarwal/Anvi1212Agarwal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvi1212Agarwal/Anvi1212Agarwal/output/github-snake.svg" />
