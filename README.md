@@ -16,3 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvi1212agarwal&show_icons=true&locale=en" alt="anvi1212agarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvi1212agarwal&" alt="" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvi1212Agarwal/Anvi1212Agarwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvi1212Agarwal/Anvi1212Agarwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
